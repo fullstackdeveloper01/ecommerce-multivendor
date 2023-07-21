@@ -1,5 +1,5 @@
 <p align="center"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter-1.svg" width="100"></p>
-<p align="center">Shopping Cart Solution - CodeIgniter and Bootstrap</p>
+<p align="center">Ecommerce Shopping Cart Solution - CodeIgniter and Bootstrap</p>
  
 ## Ecommerce, Multi- Vendor, MultiLanguage Online Shop Platform
 
@@ -9,7 +9,6 @@ Current versions:
 * Bootstrap 3.3.7 
   
 ## Support of following features
-
 1. Multi-Vendor
 2. MultiLanguage
 3. Virtual products support
